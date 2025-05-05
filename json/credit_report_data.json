@@ -1,0 +1,39 @@
+{
+    "user": {
+        "name": "John Doe",
+        "address": "1234 Elm Street, City, State, ZIP",
+        "dob": "01/01/1985",
+        "ssn_last4": "1234"
+    },
+    "accounts": [
+        {
+            "creditor": "ABC Bank",
+            "account_number": "5678",
+            "disputes": [
+                {
+                    "type": "Late Payment",
+                    "issue": "Reported late for June 2023, but payment was on time."
+                }
+            ]
+        },
+        {
+            "creditor": "XYZ Credit Union",
+            "account_number": "9876",
+            "disputes": [
+                {
+                    "type": "Incorrect Balance",
+                    "issue": "Balance reported as $5000, actual balance is $2000."
+                },
+                {
+                    "type": "Fraudulent Account",
+                    "issue": "This account does not belong to me."
+                }
+            ]
+        },
+        {
+            "creditor": "LMN Financial",
+            "account_number": "1234",
+            "disputes": []
+        }
+    ]
+}
