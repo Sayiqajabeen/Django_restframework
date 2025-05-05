@@ -25,7 +25,7 @@ This application provides an API endpoint that evaluates account data and genera
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dispute-letter-generator.git
+   git clone https://github.com/Sayiqajabeen/dispute-letter-generator.git
    cd dispute-letter-generator
    ```
 
@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📬 Contact
 
-Your Name - Sayiqa Jabeen
+Your Name - Sayiqajabeen14@gmail.com
 
 Project Link: [https://github.com/yourusername/dispute-letter-generator](https://github.com/yourusername/dispute-letter-generator)
